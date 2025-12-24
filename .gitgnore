@@ -1,0 +1,29 @@
+# Archivos de configuración con secretos
+config.py
+
+# Datos y archivos CSV
+data/
+*.csv
+trade_history.csv
+
+# Modelos entrenados
+models/
+
+# Logs y eventos
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ambientes virtuales
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
